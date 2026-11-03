@@ -1,10 +1,10 @@
-# 🎬 Movie Recommendation System
+#  Movie Recommendation System
 
 A content-based movie recommendation engine built using TF-IDF Vectorization and Cosine Similarity on the TMDB 5000 Movies dataset.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 You have two ways to run the project:
 
@@ -34,7 +34,7 @@ Get recommendations directly in your terminal:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - `app.py`: Streamlit interactive web application with search, genre filters, and recommendation cards.
 - `recommend.py`: Fast command-line recommendation script (supports direct queries and interactive mode).
